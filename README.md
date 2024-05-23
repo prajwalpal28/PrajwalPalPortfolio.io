@@ -1,8 +1,13 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This portfolio website is a cutting-edge masterpiece, built using the latest tech stack including React JS, Tailwind CSS & JS Animations.
 
-Currently, two official plugins are available:
+https://github.com/prajwalpal28/Prajwalpalportfolio.io/assets/102347114/43401cbd-628b-4587-b32f-eb1c87a4aaef
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ##
+* Modern design
+* Fully responsive
+* JS animations
+* Contact form
+
+#### Made with ❤️ by Prajwal ####
